@@ -1,4 +1,4 @@
 # adopt-animals 
 
-- [Javascript](https://github.com/Seidomo/adopt-animals/index)
+- [Javascript](https://seidomo.github.io/adopt-animals/)
 
