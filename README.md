@@ -1,5 +1,5 @@
 # adopt-animals 
 
-# [html]()
+# [html](https://seidomo.github.io/adopt-animals/)
 
-# [CSS]()
+# [CSS](https://seidomo.github.io/adopt-animals/)
