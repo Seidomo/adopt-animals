@@ -1,62 +1,67 @@
-body{
-   
-   
 
-    background-image: url("https://medforest.net/wp-content/uploads/2019/03/03_2019_national-report-forestry-italy-1024x683.jpg");
-    
+
+body{
+     background-color: green;
+     opacity: 0.3;
+
+
 }
+
+
+
+
+
+
+
+
+
+
+
 h1{
     text-align: center;
-    color: white;
-    /*border: solid blueviolet 2px;*/
-    padding-bottom: 3px color yellow;
-
-    font-size: 55px;
-    
-
-}
-ul{
-
-
-    
-    color: yellowgreen;
-    font-size: 25px;
+    color: black;
+    font-size: 60px;
     font-style: italic;
-    
-    margin: 20px;
-    
-    
+}
+
+p{
+    color: black;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+h2{
+    color: black;
+    font-size: 40px;
+    font-style: italic;
+
+
 
 }
-li{
-     display: inline-block;
-     display: block;
-      padding: 8px;
-      text-align: center;
 
+h3{
+    color: black;
+    font-size: 40px;
+    font-style: italic;
+}
+h4{
+    color: black;
+    font-size: 40px;
+    font-style: italic;
 }
 
 section{
-    text-shadow: whites;
-
-
+    float: left;
 }
- p{
 
-    font-size: 25px;
-    color: aquamarine;
- }
 
- h2{
-     color: white;
- }
 
- img{ 
-     border-radius: 50%;
-     text-align: center;
 
- }
- section{
-
-    text-align: center;
- }
+li{ 
+    display: inline;
+    float:right;
+    display: block;
+    padding: 6px;
+    background-color: beige;
+    font-size: 18px;
+}
